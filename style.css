@@ -1,0 +1,33 @@
+body 
+{
+    background-color: lightblack;
+}
+
+h1 
+{
+    color: yellow;
+    text-align: center;
+	font-family: verdana;
+	font-size: 40px;
+}
+
+h2    
+{	
+	color: blue;
+    text-align: center;
+	font-family: verdana;
+	font-size: 30px;
+}
+
+p 
+{
+	text-align: left;
+    color: white;
+	font-family: verdana;
+    font-size: 20px;
+}
+a
+{
+    color: red;
+	text-align: center;
+}
