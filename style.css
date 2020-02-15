@@ -26,6 +26,12 @@ p
 	font-family: verdana;
     font-size: 20px;
 }
+p:first-child:first-letter {
+	color: white;
+	text-align: left;
+	font-family: verdana;
+	font-size: 30px;
+  }
 li
 {
 	color: white;
